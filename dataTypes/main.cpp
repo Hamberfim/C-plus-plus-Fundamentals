@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     // Five basic data types
-    // Declared then initialized
+    // Declared THEN initialized
     char letter; letter = 'A'; // a single leter character - a single byte
     int num; num = 100;  // a whole integer number
     float decimal; decimal = 0.07;  // correct to 6 decimal places
