@@ -1,1 +1,2 @@
-# C-plus-plus-Fundamentals
+### C-plus-plus-Fundamentals
+Getting the basics down (coming from a Java and Python base knowledge).
