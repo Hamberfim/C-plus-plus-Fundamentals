@@ -11,14 +11,14 @@ int main()
     double pi; pi = 3.14159;  // correct to 10 decimal places
     bool isTrue; isTrue = false;
 
-    // declaired and intialized
+    // declared and intialized
     char beta = 'b';
     int numTwo = 2;
     float amount = 2.99;
     double oneThird =  0.333333333;
     bool isWaterWet = true;
 
-    cout << "=== Data types- declaired THEN initialized ===" << endl;
+    cout << "=== Data types- declared THEN initialized ===" << endl;
     cout << "byte char data type: " << letter << endl;
     cout << "int number data type: " << num << endl;
     cout << "decimal number data type: " << decimal << endl;
@@ -27,7 +27,7 @@ int main()
 
     cout << "" << endl;  // space in console output
 
-    cout << "=== Data types- declaired AND initialized ===" << endl;
+    cout << "=== Data types- declared AND initialized ===" << endl;
     cout << "byte char data type: " << beta << endl;
     cout << "int number data type: " << numTwo << endl;
     cout << "decimal number data type: " << amount << endl;
