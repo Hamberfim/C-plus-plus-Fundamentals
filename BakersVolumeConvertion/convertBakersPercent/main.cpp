@@ -1,7 +1,7 @@
 /*
  * Creator: adhamlin
  * Date: 03/14/2021
- * Project: An application that calculates baker's formaula precntaged in to recipes in grams
+ * Project: An application that calculates baker's formaula percentages in to recipes in grams
 */
 
 #include <string>
